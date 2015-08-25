@@ -38,9 +38,34 @@ https://www.youtube.com/watch?v=2DlxIXYEu4s
 
 http://edglossary.org/asynchronous-learning/
 
+## Cousea
+
+"Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free."
+https://www.coursera.org/about/
+
+## edX
+
+"EdX offers the highest quality courses from institutions who share our commitment to excellence in teaching and learning."
+https://www.edx.org/schools-partners
+
+## Other MOOCs (Masive Open Online Course) and online educational resources
+- https://www.udacity.com/
+- http://online.stanford.edu/
+- http://mooc.org/
+- https://www.udemy.com/
+- http://freecodecamp.com/
+- https://www.codecademy.com/
+
+
 ## Other things happening in education
 
 Bill Gates Meets with Katie Brown, Washington State Teacher of the Year
 
 https://www.youtube.com/watch?v=KPSRbHucF24
+
+This Will Revolutionize Education
+
+https://www.youtube.com/watch?v=GEmuEWjHr5c
+
+_More to come soon!_
 
