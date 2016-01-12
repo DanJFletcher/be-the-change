@@ -69,3 +69,11 @@ https://www.youtube.com/watch?v=GEmuEWjHr5c
 
 _More to come soon!_
 
+**NOTES**
+
+The intent is to turn this into a slide-show-web-presentation. I added some basic markup and a very simple server to start the base of this project. The server isn't currently needed but if you want to run it for some odd reason...
+
+1. clone/fork the repo
+2. cd to the repo 
+3. `npm install express`
+4. `nodemon server.js`
