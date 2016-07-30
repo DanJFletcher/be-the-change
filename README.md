@@ -1,4 +1,4 @@
-# be-the-change
+# Be The Change
 
 Gandhi said, "Be the change you wish to see in the world". 
 
@@ -66,6 +66,18 @@ https://www.youtube.com/watch?v=KPSRbHucF24
 This Will Revolutionize Education
 
 https://www.youtube.com/watch?v=GEmuEWjHr5c
+  
+  
+  
+
+
+# Positive Environmental Changes
+
+## The Ocean Cleanup Project
+
+About 8 million tons of plastic enters our oceans every year which is a travesty - but there are good people working hard at leveraging scalable, energy nuetral, autonamous technologies to remove about half the Great Pacific Garbage Patch in 10 years.
+
+You can find out all about the project and how to help support them here: http://www.theoceancleanup.com/
 
 _More to come soon!_
 
